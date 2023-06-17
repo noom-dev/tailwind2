@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.box1 {
+    height: 20px;
+    width: 50vw;
+    background-color: red;
+}
+.box2 {
+    height: 20px;
+    width: 50vw;
+    background-color: green;
+}

@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+  
+}
+.box1 {
+    height: 50vh;
+    background-color: red;
+}
+.box2 {
+     height: 50vh;
+     background-color: green
+}
